@@ -1,6 +1,9 @@
-# soanalytics
-Analytics for Stack Overflow
+# Analytics for Stack Overflow
 ---
-Related repositories
+
+## How-to wiki
+ * https://github.com/ibm-cds-labs/soanalytics/wiki
+
+## Related repositories
 * https://github.com/ibm-cds-labs/soingest
 * https://github.com/ibm-cds-labs/sodashboard
